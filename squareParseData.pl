@@ -17,7 +17,7 @@ use Mozilla::CA;
 ## Set globals
 ##
 
-my $ACCESS_TOKEN = 'sandbox-sq0atb-swt_bEtcOXitim9Md_Ad2g';
+my $ACCESS_TOKEN = 'YOUR-ACCESS-TOKEN';
 
 ##
 ## Initialize
